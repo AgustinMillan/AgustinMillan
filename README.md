@@ -33,3 +33,7 @@
    Actualmente estoy estudiando sobre WebSocket en Socket.IO para mejorar mis servidores y la forma en las que interactúan con los clientes.
    
   -------------
+
+  ## →Contacto←
+correo: victor.agustin.millan@gmail.com
+LinkedIn: https://www.linkedin.com/in/agustin-millan-415752244/
