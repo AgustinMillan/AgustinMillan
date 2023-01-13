@@ -14,6 +14,7 @@
 - Sequelize
 - React
 - Redux 
+- SocketIO
 ## →Sobre mi←
 
  Me encantaría contarles sobre mi historia con la programación, que fue lo que me hizo querer ser programador, pero quiero ser breve así que en esta sección únicamente destacaré habilidades que me caractericen, pueden saber más de mí en mi LinkedIn. 🤗
@@ -30,7 +31,7 @@
   
   ## →Estudiando←
   
-   Actualmente estoy estudiando sobre WebSocket en Socket.IO para mejorar mis servidores y la forma en las que interactúan con los clientes.
+   Actualmente estoy estudiando sobre Nest.js
    
   -------------
 
