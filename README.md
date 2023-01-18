@@ -12,6 +12,8 @@
 - Express
 - PostgresSQL
 - Sequelize
+- MongoDB
+- Mongoose
 - React
 - Redux 
 - SocketIO
