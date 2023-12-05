@@ -6,6 +6,7 @@
 
 ## →Hard Skills←
 - Javascript
+- TypeScript
 - HTML
 - CSS
 - NodeJS
@@ -17,19 +18,14 @@
 - React
 - Redux 
 - SocketIO
+- NestJS
+- Microservices
+- Redis
+- JWT
+- Swagger
+- Unit Testing
 
   
-  ## →Proyecto actual←
-  
-  :) estoy trabajando acutalmente.
-  
-  -------------
-  
-  ## →Estudiando←
-  
-   
-   
-  -------------
 
   ## →Contacto←
 correo: victor.agustin.millan@gmail.com
